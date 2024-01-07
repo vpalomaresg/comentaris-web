@@ -1,2 +1,2 @@
 # comentaris-web
-Repositori per gestionar el sistema de comentaris (giscus) Discussions de GitHub. Permet als visitants deixar comentaris i reaccions al teu lloc web mitjançant GitHub!
+Repositori per gestionar el sistema de comentaris (giscus) del meu lloc personal. Permet als visitants deixar comentaris i reaccions al web mitjançant GitHub!
